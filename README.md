@@ -2,7 +2,7 @@
 
 
 ## Overview
-Frost Converter is a user-friendly Kivy-based app for converting numbers between different number systems (Decimal, Binary, Octal, Hexadecimal). The app features an intuitive graphical interface with buttons for selecting the input and output base and provides a visually appealing layout with background images. A mobile app version is also available, allowing seamless usage on Android devices.
+Frost-base-Converter is a user-friendly Kivy-based app for converting numbers between different number systems (Decimal, Binary, Octal, Hexadecimal). The app features an intuitive graphical interface with buttons for selecting the input and output base and provides a visually appealing layout with background images. A mobile app version is also available, allowing seamless usage on Android devices.
 
 ## Features
 - Convert between Decimal, Binary, Octal, and Hexadecimal.
@@ -25,7 +25,7 @@ Frost Converter is a user-friendly Kivy-based app for converting numbers between
 
 ## How to Run (Desktop Version)
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/frost-converter-app.git`
+   `git clone https://github.com/frostAlpha/frost-base-converter.git`
 2. Install dependencies:  
    `pip install kivy`
 3. Run the app:  
